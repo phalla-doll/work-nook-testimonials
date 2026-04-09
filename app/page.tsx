@@ -30,8 +30,7 @@ const Img = ({ src, h }: { src: string, h: string }) => (
 
 export default function Page() {
   return (
-    <main className="min-h-screen p-4 md:p-8 lg:p-12 flex items-center justify-center">
-      <div className="bg-white rounded-[2.5rem] w-full max-w-[1400px] mx-auto overflow-hidden shadow-sm pb-24">
+    <main className="min-h-screen w-full max-w-[1400px] mx-auto overflow-hidden pb-24">
         
         {/* Image Grid */}
         <div className="relative h-[400px] md:h-[500px] lg:h-[550px] overflow-hidden flex justify-center items-start gap-3 md:gap-4 pt-12 md:pt-16 px-4">
@@ -127,7 +126,6 @@ export default function Page() {
           ))}
         </div>
 
-      </div>
     </main>
   );
 }

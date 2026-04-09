@@ -19,6 +19,24 @@ const testimonials = [
     name: "Lais A.",
     role: "Digital Marketer",
     avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=faces&q=80"
+  },
+  {
+    quote: "\"The community here is fantastic. I've made so many valuable connections that have helped my business grow.\"",
+    name: "Sarah J.",
+    role: "Freelance Writer",
+    avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=faces&q=80"
+  },
+  {
+    quote: "WorkNook's amenities are top-notch. The high-speed internet and quiet pods make it the perfect place for deep work.",
+    name: "David C.",
+    role: "Software Engineer",
+    avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=faces&q=80"
+  },
+  {
+    quote: "\"I host all my client meetings here. The professional atmosphere and beautiful design always leave a great impression.\"",
+    name: "Elena R.",
+    role: "Creative Director",
+    avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop&crop=faces&q=80"
   }
 ];
 

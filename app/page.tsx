@@ -6,19 +6,19 @@ const testimonials = [
     quote: "\"WorkNook makes finding a coworking space so easy! I can book a desk in minutes and get straight to work. Highly recommend!\"",
     name: "Joao M.",
     role: "Startup Founder",
-    avatar: "https://picsum.photos/seed/joao/100/100"
+    avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=faces&q=80"
   },
   {
     quote: "Our team needed a flexible meeting space, and WorkNook delivered. The process was smooth, and the space was exactly what we needed!",
     name: "Bruno K.",
     role: "UX Designer",
-    avatar: "https://picsum.photos/seed/bruno/100/100"
+    avatar: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=faces&q=80"
   },
   {
     quote: "\"I love the variety of spaces available! Whether I need a quiet spot or a collaborative space, WorkNook always has the perfect option.\"",
     name: "Lais A.",
     role: "Digital Marketer",
-    avatar: "https://picsum.photos/seed/lais/100/100"
+    avatar: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&h=100&fit=crop&crop=faces&q=80"
   }
 ];
 
@@ -37,47 +37,47 @@ export default function Page() {
           
           {/* Col 1 */}
           <div className="hidden xl:flex flex-col gap-3 md:gap-4 w-[160px] shrink-0 translate-y-32">
-            <Img h="h-[180px]" src="https://picsum.photos/seed/office-couch/300/400" />
-            <Img h="h-[160px]" src="https://picsum.photos/seed/office-monitor/300/300" />
+            <Img h="h-[180px]" src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=300&h=400&fit=crop&q=80" />
+            <Img h="h-[160px]" src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=300&h=300&fit=crop&q=80" />
           </div>
           
           {/* Col 2 */}
           <div className="hidden lg:flex flex-col gap-3 md:gap-4 w-[160px] shrink-0 translate-y-16">
-            <Img h="h-[120px]" src="https://picsum.photos/seed/office-desk/300/200" />
-            <Img h="h-[140px]" src="https://picsum.photos/seed/writing/300/300" />
-            <Img h="h-[120px]" src="https://picsum.photos/seed/empty-desk/300/200" />
+            <Img h="h-[120px]" src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=300&h=200&fit=crop&q=80" />
+            <Img h="h-[140px]" src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&h=300&fit=crop&q=80" />
+            <Img h="h-[120px]" src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=300&h=200&fit=crop&q=80" />
           </div>
           
           {/* Col 3 */}
           <div className="hidden md:flex flex-col gap-3 md:gap-4 w-[160px] shrink-0 translate-y-4">
-            <Img h="h-[380px]" src="https://picsum.photos/seed/woman-window/300/600" />
+            <Img h="h-[380px]" src="https://images.unsplash.com/photo-1573164713988-8665fc963095?w=300&h=600&fit=crop&q=80" />
           </div>
           
           {/* Col 4 */}
           <div className="flex flex-col gap-3 md:gap-4 w-[140px] md:w-[160px] shrink-0 -translate-y-4">
-            <Img h="h-[420px]" src="https://picsum.photos/seed/man-dark-office/300/800" />
+            <Img h="h-[420px]" src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=300&h=800&fit=crop&q=80" />
           </div>
           
           {/* Col 5 */}
           <div className="flex flex-col gap-3 md:gap-4 w-[140px] md:w-[160px] shrink-0 -translate-y-4">
-            <Img h="h-[420px]" src="https://picsum.photos/seed/woman-desk-edge/300/800" />
+            <Img h="h-[420px]" src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=300&h=800&fit=crop&q=80" />
           </div>
           
           {/* Col 6 */}
           <div className="hidden md:flex flex-col gap-3 md:gap-4 w-[160px] shrink-0 translate-y-4">
-            <Img h="h-[380px]" src="https://picsum.photos/seed/plant-laptop/300/600" />
+            <Img h="h-[380px]" src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=300&h=600&fit=crop&q=80" />
           </div>
           
           {/* Col 7 */}
           <div className="hidden lg:flex flex-col gap-3 md:gap-4 w-[160px] shrink-0 translate-y-16">
-            <Img h="h-[180px]" src="https://picsum.photos/seed/man-laptop/300/400" />
-            <Img h="h-[200px]" src="https://picsum.photos/seed/glass-meeting/300/400" />
+            <Img h="h-[180px]" src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=300&h=400&fit=crop&q=80" />
+            <Img h="h-[200px]" src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=300&h=400&fit=crop&q=80" />
           </div>
           
           {/* Col 8 */}
           <div className="hidden xl:flex flex-col gap-3 md:gap-4 w-[160px] shrink-0 translate-y-32">
-            <Img h="h-[160px]" src="https://picsum.photos/seed/panel-discussion/300/300" />
-            <Img h="h-[180px]" src="https://picsum.photos/seed/overhead-office/300/400" />
+            <Img h="h-[160px]" src="https://images.unsplash.com/photo-1552664730-d307ca884978?w=300&h=300&fit=crop&q=80" />
+            <Img h="h-[180px]" src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=300&h=400&fit=crop&q=80" />
           </div>
           
         </div>

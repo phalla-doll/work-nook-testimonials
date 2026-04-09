@@ -82,14 +82,14 @@ export default function Page() {
         </div>
 
         {/* Header */}
-        <div className="text-center px-4 max-w-4xl mx-auto mt-12 md:mt-20">
+        <div className="text-center px-4 max-w-4xl mx-auto mt-6 md:mt-10">
           <span className="inline-block py-2 px-6 rounded-full border border-gray-200 text-sm font-medium text-gray-700 mb-8">
             Testimonials
           </span>
-          <h2 className="text-4xl md:text-5xl lg:text-[3.5rem] leading-[1.1] font-bold tracking-tight mb-2 text-gray-900">
+          <h2 className="text-4xl md:text-5xl lg:text-[3.5rem] leading-[1.1] font-medium tracking-tighter mb-2 text-gray-900">
             Trusted by creatives and leaders
           </h2>
-          <h2 className="text-4xl md:text-5xl lg:text-[3.5rem] leading-[1.1] font-bold tracking-tight text-gray-400 mb-16 md:mb-24">
+          <h2 className="text-4xl md:text-5xl lg:text-[3.5rem] leading-[1.1] font-medium tracking-tighter text-gray-400 mb-16 md:mb-24">
             from various industries
           </h2>
         </div>

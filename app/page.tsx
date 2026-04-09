@@ -43,9 +43,8 @@ export default function Page() {
           
           {/* Col 2 */}
           <div className="hidden lg:flex flex-col gap-3 md:gap-4 w-[160px] shrink-0 translate-y-16">
-            <Img h="h-[120px]" src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=300&h=200&fit=crop&q=80" />
-            <Img h="h-[140px]" src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&h=300&fit=crop&q=80" />
-            <Img h="h-[120px]" src="https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=300&h=200&fit=crop&q=80" />
+            <Img h="h-[180px]" src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=300&h=400&fit=crop&q=80" />
+            <Img h="h-[200px]" src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=300&h=400&fit=crop&q=80" />
           </div>
           
           {/* Col 3 */}
